@@ -2,6 +2,8 @@
 import loadHome from "./home.js";
 import loadMenu from "./menu.js";
 import loadContacts from "./contact.js";
+import "../assets/css/style.css";
+import "../assets/css/general.css";
 
 const navList = document.querySelector(".main-nav-list");
 
